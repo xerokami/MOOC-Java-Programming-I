@@ -1,6 +1,6 @@
 # Part 1 Exercises
 
-Table of contents
+Table of Contents
 ---
 
 1. Printing
