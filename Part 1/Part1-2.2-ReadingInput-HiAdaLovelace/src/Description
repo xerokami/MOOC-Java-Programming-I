@@ -1,0 +1,15 @@
+Template
+--------
+public class HiAdaLovelace {
+
+    public static void main(String[] args) {
+        String name = "Ada Lovelace";
+
+    }
+}
+
+Objective
+---------
+Modify the program to print out a message and the variable name like so:
+
+Hi Ada Lovelace!

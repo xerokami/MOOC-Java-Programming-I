@@ -1,0 +1,15 @@
+Template
+--------
+public class Dinosaur {
+    public static void main(String[] args) {
+        // Write your program here
+    }
+}
+
+Objective
+---------
+Print the following using "sout-shorthand":
+
+Once upon a time
+there was
+a dinosaur
