@@ -1,0 +1,30 @@
+Template
+--------
+public class VariousVariables {
+    public static void main(String[] args) {
+        System.out.println("Chicken:");
+        int chicken = 3;
+        System.out.println(chicken);
+
+        System.out.println("Bacon (kg)");
+        double bacon = 5.5;
+        System.out.println(bacon);
+
+        System.out.println("Tractor:");
+        String tractor = "None!";
+        System.out.println(tractor);
+
+        System.out.println("And finally, a summary:");
+        System.out.println(chicken);
+        System.out.println(bacon);
+        System.out.println(tractor);
+    }
+}
+
+Objective
+---------
+Modify the program so that:
+
+Chicken is 9000
+Bacon is 0.1
+Tractor is Zetor

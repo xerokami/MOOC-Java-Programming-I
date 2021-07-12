@@ -11,7 +11,12 @@
       <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-2.3-ReadingInput-MessageThreeTimes/Part1-2.3-ReadingInput-MessageThreeTimes.iml" filepath="$PROJECT_DIR$/Part 1/Part1-2.3-ReadingInput-MessageThreeTimes/Part1-2.3-ReadingInput-MessageThreeTimes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-2.4-ReadingInput-Greeting/Part1-2.4-ReadingInput-Greeting.iml" filepath="$PROJECT_DIR$/Part 1/Part1-2.4-ReadingInput-Greeting/Part1-2.4-ReadingInput-Greeting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-2.5-ReadingInput-Conversation/Part1-2.5-ReadingInput-Conversation.iml" filepath="$PROJECT_DIR$/Part 1/Part1-2.5-ReadingInput-Conversation/Part1-2.5-ReadingInput-Conversation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Part1-2.6-ReadingInput-Story/Part1-2.6-ReadingInput-Story.iml" filepath="$PROJECT_DIR$/Part1-2.6-ReadingInput-Story/Part1-2.6-ReadingInput-Story.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-2.6-ReadingInput-Story/Part1-2.6-ReadingInput-Story.iml" filepath="$PROJECT_DIR$/Part 1/Part1-2.6-ReadingInput-Story/Part1-2.6-ReadingInput-Story.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-3.1-Variables-VariousVariables/Part1-3.1-Variables-VariousVariables.iml" filepath="$PROJECT_DIR$/Part 1/Part1-3.1-Variables-VariousVariables/Part1-3.1-Variables-VariousVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-3.2-Variables-IntegerInput/Part1-3.2-Variables-IntegerInput.iml" filepath="$PROJECT_DIR$/Part 1/Part1-3.2-Variables-IntegerInput/Part1-3.2-Variables-IntegerInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-3.3-Variables-DoubleInput/Part1-3.3-Variables-DoubleInput.iml" filepath="$PROJECT_DIR$/Part 1/Part1-3.3-Variables-DoubleInput/Part1-3.3-Variables-DoubleInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-3.4-Variables-BooleanInput/Part1-3.4-Variables-BooleanInput.iml" filepath="$PROJECT_DIR$/Part 1/Part1-3.4-Variables-BooleanInput/Part1-3.4-Variables-BooleanInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-3.5-Variables-DifferentTypesofInput/Part1-3.5-Variables-DifferentTypesofInput.iml" filepath="$PROJECT_DIR$/Part 1/Part1-3.5-Variables-DifferentTypesofInput/Part1-3.5-Variables-DifferentTypesofInput.iml" />
     </modules>
   </component>
 </project>

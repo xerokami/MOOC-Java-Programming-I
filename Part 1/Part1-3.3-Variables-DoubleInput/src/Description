@@ -1,0 +1,11 @@
+Template
+--------
+public class DoubleInput {
+    public static void main(String[] args){
+
+    }
+}
+
+Objective
+---------
+Write a program to ask the user for a double and print out that value.
