@@ -1,1 +1,0 @@
-# Printing exercises and solutions
