@@ -2,8 +2,8 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../Part 1/Part1-4.8-CalculatingWithNumbers-SimpleCalculator">
-      <sourceFolder url="file://$MODULE_DIR$/../Part 1/Part1-4.8-CalculatingWithNumbers-SimpleCalculator/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../Part 1/Part1-5.4-Conditions-Positivity">
+      <sourceFolder url="file://$MODULE_DIR$/../Part 1/Part1-5.4-Conditions-Positivity/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-16" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

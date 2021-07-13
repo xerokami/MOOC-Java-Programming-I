@@ -1,0 +1,11 @@
+Template
+--------
+public class SumOfTwoNumbers {
+    public static void main(String[] args){
+
+    }
+}
+
+Objective
+---------
+Ask the user for two numbers and display the sum.

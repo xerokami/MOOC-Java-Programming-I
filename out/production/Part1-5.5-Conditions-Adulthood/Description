@@ -1,0 +1,15 @@
+Template
+--------
+import java.util.Scanner;
+
+public class Adulthood {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+    }
+}
+
+
+Objective
+---------
+Ask the user for their age and tell them if they are an adult or not (18 or older).

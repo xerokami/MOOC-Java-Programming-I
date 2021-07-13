@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MOOC Java Programming I.iml" filepath="$PROJECT_DIR$/.idea/MOOC Java Programming I.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-1.0-Printing-AdaLovelace/Part1-1.0-Printing-AdaLovelace.iml" filepath="$PROJECT_DIR$/Part 1/Part1-1.0-Printing-AdaLovelace/Part1-1.0-Printing-AdaLovelace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-1.0-Printing-OnceUponATime/Part1-1.0-Printing-OnceUponATime.iml" filepath="$PROJECT_DIR$/Part 1/Part1-1.0-Printing-OnceUponATime/Part1-1.0-Printing-OnceUponATime.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-1.1-Printing-Dinosaur/Part1-1.1-Printing-Dinosaur.iml" filepath="$PROJECT_DIR$/Part 1/Part1-1.1-Printing-Dinosaur/Part1-1.1-Printing-Dinosaur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-1.1-Printing-AdaLovelace/Part1-1.0-Printing-AdaLovelace.iml" filepath="$PROJECT_DIR$/Part 1/Part1-1.1-Printing-AdaLovelace/Part1-1.0-Printing-AdaLovelace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-1.2-Printing-OnceUponATime/Part1-1.0-Printing-OnceUponATime.iml" filepath="$PROJECT_DIR$/Part 1/Part1-1.2-Printing-OnceUponATime/Part1-1.0-Printing-OnceUponATime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-1.3-Printing-Dinosaur/Part1-1.1-Printing-Dinosaur.iml" filepath="$PROJECT_DIR$/Part 1/Part1-1.3-Printing-Dinosaur/Part1-1.1-Printing-Dinosaur.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-2.1-ReadingInput-Message/Part1-2.1-ReadingInput-Message.iml" filepath="$PROJECT_DIR$/Part 1/Part1-2.1-ReadingInput-Message/Part1-2.1-ReadingInput-Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-2.2-ReadingInput-HiAdaLovelace/Part1-2.2-ReadingInput-HiAdaLovelace.iml" filepath="$PROJECT_DIR$/Part 1/Part1-2.2-ReadingInput-HiAdaLovelace/Part1-2.2-ReadingInput-HiAdaLovelace.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-2.3-ReadingInput-MessageThreeTimes/Part1-2.3-ReadingInput-MessageThreeTimes.iml" filepath="$PROJECT_DIR$/Part 1/Part1-2.3-ReadingInput-MessageThreeTimes/Part1-2.3-ReadingInput-MessageThreeTimes.iml" />
@@ -23,8 +23,21 @@
       <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-4.4-CalculatingWithNumbers-AdditionFormula/Part1-4.4-CalculatingWithNumbers-AdditionFormula.iml" filepath="$PROJECT_DIR$/Part 1/Part1-4.4-CalculatingWithNumbers-AdditionFormula/Part1-4.4-CalculatingWithNumbers-AdditionFormula.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-4.5-CalculatingWithNumbers-MultiplicationFormula/Part1-4.5-CalculatingWithNumbers-MultiplicationFormula.iml" filepath="$PROJECT_DIR$/Part 1/Part1-4.5-CalculatingWithNumbers-MultiplicationFormula/Part1-4.5-CalculatingWithNumbers-MultiplicationFormula.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-4.6-CalculatingWithNumbers-AverageOfTwoNumbers/Part1-4.6-CalculatingWithNumbers-AverageOfTwoNumbers.iml" filepath="$PROJECT_DIR$/Part 1/Part1-4.6-CalculatingWithNumbers-AverageOfTwoNumbers/Part1-4.6-CalculatingWithNumbers-AverageOfTwoNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Part1-4.7-CalculatingWithNumbers-AverageOfThreeNumbers/Part1-4.7-CalculatingWithNumbers-AverageOfThreeNumbers.iml" filepath="$PROJECT_DIR$/Part1-4.7-CalculatingWithNumbers-AverageOfThreeNumbers/Part1-4.7-CalculatingWithNumbers-AverageOfThreeNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Part1-4.8-CalculatingWithNumbers-SimpleCalculator/Part1-4.8-CalculatingWithNumbers-SimpleCalculator.iml" filepath="$PROJECT_DIR$/Part1-4.8-CalculatingWithNumbers-SimpleCalculator/Part1-4.8-CalculatingWithNumbers-SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-4.7-CalculatingWithNumbers-AverageOfThreeNumbers/Part1-4.7-CalculatingWithNumbers-AverageOfThreeNumbers.iml" filepath="$PROJECT_DIR$/Part 1/Part1-4.7-CalculatingWithNumbers-AverageOfThreeNumbers/Part1-4.7-CalculatingWithNumbers-AverageOfThreeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-4.8-CalculatingWithNumbers-SimpleCalculator/Part1-4.8-CalculatingWithNumbers-SimpleCalculator.iml" filepath="$PROJECT_DIR$/Part 1/Part1-4.8-CalculatingWithNumbers-SimpleCalculator/Part1-4.8-CalculatingWithNumbers-SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.1-Conditions-SpeedingTicket/Part1-5.1-Conditions-SpeedingTicket.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.1-Conditions-SpeedingTicket/Part1-5.1-Conditions-SpeedingTicket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.10-Conditions-Same/Part1-5.10-Conditions-Same.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.10-Conditions-Same/Part1-5.10-Conditions-Same.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.11-Conditions-CheckingTheAge/Part1-5.11-Conditions-CheckingTheAge.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.11-Conditions-CheckingTheAge/Part1-5.11-Conditions-CheckingTheAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.12-Conditions-LeapYear/Part1-5.12-Conditions-LeapYear.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.12-Conditions-LeapYear/Part1-5.12-Conditions-LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.13-Conditions-GiftTax/Part1-5.13-Conditions-GiftTax.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.13-Conditions-GiftTax/Part1-5.13-Conditions-GiftTax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.2-Conditions-Orwell/Part1-5.2-Conditions-Orwell.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.2-Conditions-Orwell/Part1-5.2-Conditions-Orwell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.3-Conditions-Ancient/Part1-5.3-Conditions-Ancient.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.3-Conditions-Ancient/Part1-5.3-Conditions-Ancient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.4-Conditions-Positivity/Part1-5.4-Conditions-Positivity.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.4-Conditions-Positivity/Part1-5.4-Conditions-Positivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.5-Conditions-Adulthood/Part1-5.5-Conditions-Adulthood.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.5-Conditions-Adulthood/Part1-5.5-Conditions-Adulthood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.6-Conditions-LargerThanorEqualTo/Part1-5.6-Conditions-LargerThanorEqualTo.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.6-Conditions-LargerThanorEqualTo/Part1-5.6-Conditions-LargerThanorEqualTo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.7-Conditions-GreadesandPoints/Part1-5.7-Conditions-GradesandPoints.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.7-Conditions-GreadesandPoints/Part1-5.7-Conditions-GradesandPoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.8-Conditions-OddorEven/Part1-5.8-Conditions-OddorEven.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.8-Conditions-OddorEven/Part1-5.8-Conditions-OddorEven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part1-5.9-Conditions-Password/Part1-5.9-Conditions-Password.iml" filepath="$PROJECT_DIR$/Part 1/Part1-5.9-Conditions-Password/Part1-5.9-Conditions-Password.iml" />
     </modules>
   </component>
 </project>

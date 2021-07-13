@@ -1,0 +1,13 @@
+Template
+--------
+public class MultiplicationFormula {
+    public static void main(String[] args){
+
+    }
+}
+
+Objective
+---------
+Ask the user for two numbers and display:
+
+<firstNum> * <secondNum> = (Multiplication of the inputs)

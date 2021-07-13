@@ -1,0 +1,16 @@
+Template
+--------
+import java.util.Scanner;
+
+public class Ancient {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+        }
+    }
+}
+
+Objective
+---------
+Ask user for a year.
+If user inputs number smaller than 2015 then print Ancient history!

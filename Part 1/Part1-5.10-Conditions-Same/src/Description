@@ -1,0 +1,16 @@
+Template
+--------
+import java.util.Scanner;
+
+public class Same {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+    }
+}
+
+
+Objective
+---------
+Ask the user for two strings.
+If they are the same print "Same" otherwise print "Different".

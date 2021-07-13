@@ -1,0 +1,11 @@
+Template
+--------
+public class SpeedingTicket {
+    public static void main(String[] args){
+
+    }
+}
+
+Objective
+---------
+Ask the user for an integer and then print out the speed if it's greater than 120.

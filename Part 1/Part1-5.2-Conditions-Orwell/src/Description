@@ -1,0 +1,15 @@
+Template
+--------
+import java.util.Scanner;
+
+public class Orwell {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+        }
+    }
+}
+
+Objective
+---------
+Ask user for an integer and print out Orwell if number is exactly 1984.

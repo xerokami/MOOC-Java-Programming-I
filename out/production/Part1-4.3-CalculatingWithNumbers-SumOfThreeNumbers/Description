@@ -1,0 +1,11 @@
+Template
+--------
+public class SumOfThreeNumbers {
+    public static void main(String[] args){
+
+    }
+}
+
+Objective
+---------
+Ask the user for three numbers and display the sum.
