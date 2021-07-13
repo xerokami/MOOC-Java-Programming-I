@@ -1,0 +1,16 @@
+Template
+--------
+import java.util.Scanner;
+
+public class AverageOfNumbers {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+    }
+}
+
+
+Objective
+---------
+Ask the user for input until they enter zero.
+Once program is complete calculate and display the average of the total numbers entered.

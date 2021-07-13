@@ -1,0 +1,16 @@
+Template
+--------
+import java.util.Scanner;
+
+public class AbsoluteValue {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+    }
+}
+
+
+Objective
+---------
+Read in an integer, if the number is less than 0 then print the integer multiplied by -1.
+In every other case print the number itself.

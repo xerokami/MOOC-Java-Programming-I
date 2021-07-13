@@ -1,0 +1,20 @@
+Template
+--------
+import java.util.Scanner;
+
+public class ComparingNumbers {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+    }
+}
+
+
+Objective
+---------
+Write a program that compares the first number to the second number.
+
+I.e.
+If the first is equal to the second print <num1> is equal to <num2>.
+If the first is bigger than the second print <num1> is greater than <num2>.
+If the first is smaller than the second print <num1> is smaller than <num2>.

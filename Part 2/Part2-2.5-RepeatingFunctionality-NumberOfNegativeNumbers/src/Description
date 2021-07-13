@@ -1,0 +1,17 @@
+Template
+--------
+import java.util.Scanner;
+
+public class NumberOfNegativeNumbers {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+
+    }
+}
+
+
+Objective
+---------
+Read values from user until they enter zero.
+When complete the program should print the number of negative values entered.

@@ -1,0 +1,21 @@
+Template
+--------
+import java.util.Scanner;
+
+public class FromWhereToWhere {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+    }
+}
+
+
+Objective
+---------
+1st Part:
+Write a program which asks a user to enter a value.
+Print the number 1 -> that value.
+
+2nd Part:
+Edit the program so that it asks the user for a start and end point.
+Then print the range between the two points (including the start and end values).
