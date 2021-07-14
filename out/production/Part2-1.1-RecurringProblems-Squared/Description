@@ -1,0 +1,15 @@
+Template
+--------
+import java.util.Scanner;
+
+public class Squared {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+    }
+}
+
+
+Objective
+---------
+Ask the user for an integer and print out the square of that integer.

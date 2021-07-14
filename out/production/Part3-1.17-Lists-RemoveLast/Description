@@ -1,0 +1,19 @@
+Template
+--------
+ArrayList<String> strings = new ArrayList<>();
+
+strings.add("First");
+strings.add("Second");
+strings.add("Third");
+
+System.out.println(strings);
+
+removeLast(strings);
+removeLast(strings);
+
+System.out.println(strings);
+
+Objective
+---------
+Write a method to remove the last item from a list.
+If the list is empty do nothing.

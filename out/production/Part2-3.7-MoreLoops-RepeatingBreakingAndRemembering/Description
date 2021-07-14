@@ -1,0 +1,28 @@
+Template
+--------
+import java.util.Scanner;
+
+public class RepeatingBreakingAndRemembering {
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
+    }
+}
+
+
+Objective
+---------
+1st Part:
+Write a program to ask for numbers until -1 is entered then it ends.
+
+2nd Part:
+Add functionality so that it calculates and prints the sum of numbers entered.
+
+3rd Part:
+Add functionality so that it calculates and prints the number of numbers entered.
+
+4th Part:
+Add functionality so that it calculates the average of the numbers entered.
+
+5th Part:
+Add functionality so that it prints the total number of even and odd numbers entered.

@@ -2,8 +2,8 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../Part 2/Part2-4.13-Functions-StarSign">
-      <sourceFolder url="file://$MODULE_DIR$/../Part 2/Part2-4.13-Functions-StarSign/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../Part 3/Part3-1.17-Lists-RemoveLast">
+      <sourceFolder url="file://$MODULE_DIR$/../Part 3/Part3-1.17-Lists-RemoveLast/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-16" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

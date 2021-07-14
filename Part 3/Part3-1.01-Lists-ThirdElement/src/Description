@@ -1,0 +1,20 @@
+Template
+--------
+import java.util.ArrayList;
+
+public class WordListExample {
+
+    public static void main(String[] args) {
+        ArrayList<String> wordList = new ArrayList<>();
+
+        wordList.add("First");
+        wordList.add("Second");
+
+        System.out.println(wordList.get(1));
+    }
+}
+
+
+Objective
+---------
+Write a program which prints out the third element of a list of 4.
