@@ -1,0 +1,12 @@
+Template
+--------
+public class <Name> {
+    public static void main(String[] args){
+
+    }
+}
+
+
+Objective
+---------
+Write a method word which returns a string of your choice.

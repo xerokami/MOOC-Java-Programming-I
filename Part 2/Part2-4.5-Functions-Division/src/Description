@@ -1,0 +1,15 @@
+Template
+--------
+public class <Name> {
+    public static void main(String[] args){
+
+    }
+}
+
+
+Objective
+---------
+Write a method called division which takes two parameters (numerator and denominator).
+Method prints the result of the division of the two parameters.
+
+Note - We want a floating point number returned.
