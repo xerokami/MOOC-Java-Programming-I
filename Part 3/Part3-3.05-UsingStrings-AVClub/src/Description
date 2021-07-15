@@ -1,0 +1,4 @@
+Objective
+---------
+Write a program that reads user strings until an empty one is entered.
+For each non-empty string, the program splits the strings by spaces and then prints the pieces that contain "av", each on a new line.

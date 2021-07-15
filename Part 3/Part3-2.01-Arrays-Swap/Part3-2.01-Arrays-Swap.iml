@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../Part 3/Part3-2.01-Arrays-Swap">
+      <sourceFolder url="file://$MODULE_DIR$/../Part 3/Part3-2.01-Arrays-Swap/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="openjdk-16" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

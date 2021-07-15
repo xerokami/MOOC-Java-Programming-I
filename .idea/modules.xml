@@ -89,6 +89,21 @@
       <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-1.07-Lists-RememberTheseNumbers/Part3-1.7-Lists-RememberTheseNumbers.iml" filepath="$PROJECT_DIR$/Part 3/Part3-1.07-Lists-RememberTheseNumbers/Part3-1.7-Lists-RememberTheseNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-1.08-Lists-OnlyTheseNumbers/Part3-1.8-Lists-OnlyTheseNumbers.iml" filepath="$PROJECT_DIR$/Part 3/Part3-1.08-Lists-OnlyTheseNumbers/Part3-1.8-Lists-OnlyTheseNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-1.09-Lists-GreatestInList/Part3-1.9-Lists-GreatestInList.iml" filepath="$PROJECT_DIR$/Part 3/Part3-1.09-Lists-GreatestInList/Part3-1.9-Lists-GreatestInList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-2.01-Arrays-Swap/Part3-2.01-Arrays-Swap.iml" filepath="$PROJECT_DIR$/Part 3/Part3-2.01-Arrays-Swap/Part3-2.01-Arrays-Swap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-2.02-Arrays-IndexWasNotFound/Part3-2.02-Arrays-IndexWasNotFound.iml" filepath="$PROJECT_DIR$/Part 3/Part3-2.02-Arrays-IndexWasNotFound/Part3-2.02-Arrays-IndexWasNotFound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-2.03-Arrays-SumOfArray/Part3-2.03-Arrays-SumOfArray.iml" filepath="$PROJECT_DIR$/Part 3/Part3-2.03-Arrays-SumOfArray/Part3-2.03-Arrays-SumOfArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-2.04-Arrays-PrintNeatly/Part3-2.04-Arrays-PrintNeatly.iml" filepath="$PROJECT_DIR$/Part 3/Part3-2.04-Arrays-PrintNeatly/Part3-2.04-Arrays-PrintNeatly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-2.05-Arrays-PrintInStars/Part3-2.05-Arrays-PrintInStars.iml" filepath="$PROJECT_DIR$/Part 3/Part3-2.05-Arrays-PrintInStars/Part3-2.05-Arrays-PrintInStars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-3.01-UsingStrings-PrintThrice/Part3-3.01-UsingStrings-PrintThrice.iml" filepath="$PROJECT_DIR$/Part 3/Part3-3.01-UsingStrings-PrintThrice/Part3-3.01-UsingStrings-PrintThrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-3.02-UsingStrings-IsItTrue/Part3-3.02-UsingStrings-IsItTrue.iml" filepath="$PROJECT_DIR$/Part 3/Part3-3.02-UsingStrings-IsItTrue/Part3-3.02-UsingStrings-IsItTrue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-3.03-UsingStrings-Login/Part3-3.03-UsingStrings-Login.iml" filepath="$PROJECT_DIR$/Part 3/Part3-3.03-UsingStrings-Login/Part3-3.03-UsingStrings-Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-3.04-UsingStrings-LineByLine/Part3-3.04-UsingStrings-LineByLine.iml" filepath="$PROJECT_DIR$/Part 3/Part3-3.04-UsingStrings-LineByLine/Part3-3.04-UsingStrings-LineByLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-3.05-UsingStrings-AVClub/Part3-3.05-UsingStrings-AVClub.iml" filepath="$PROJECT_DIR$/Part 3/Part3-3.05-UsingStrings-AVClub/Part3-3.05-UsingStrings-AVClub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-3.06-UsingStrings-FirstWords/Part3-3.06-UsingStrings-FirstWords.iml" filepath="$PROJECT_DIR$/Part 3/Part3-3.06-UsingStrings-FirstWords/Part3-3.06-UsingStrings-FirstWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-3.07-UsingStrings-LastWords/Part3-3.07-UsingStrings-LastWords.iml" filepath="$PROJECT_DIR$/Part 3/Part3-3.07-UsingStrings-LastWords/Part3-3.07-UsingStrings-LastWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-3.08-UsingStrings-AgeOfTheOldest/Part3-3.08-UsingStrings-AgeOfTheOldest.iml" filepath="$PROJECT_DIR$/Part 3/Part3-3.08-UsingStrings-AgeOfTheOldest/Part3-3.08-UsingStrings-AgeOfTheOldest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 3/Part3-3.09-UsingStrings-NameOfTheOldest/Part3-3.09-UsingStrings-NameOfTheOldest.iml" filepath="$PROJECT_DIR$/Part 3/Part3-3.09-UsingStrings-NameOfTheOldest/Part3-3.09-UsingStrings-NameOfTheOldest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part3-3.10-UsingStrings-PersonalDetails/Part3-3.10-UsingStrings-PersonalDetails.iml" filepath="$PROJECT_DIR$/Part3-3.10-UsingStrings-PersonalDetails/Part3-3.10-UsingStrings-PersonalDetails.iml" />
     </modules>
   </component>
 </project>
