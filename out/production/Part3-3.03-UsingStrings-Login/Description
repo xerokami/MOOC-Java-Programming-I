@@ -1,0 +1,8 @@
+Objective
+---------
+Write a program which recognizes these logins and gives a successful login message if entered correctly.
+
+Login Table:
+username	password
+alex	    sunshine
+emma	    haskell

@@ -1,0 +1,4 @@
+Objective
+---------
+Write a program that reads strings from users if empty the program stops.
+For each non-empty string the program splits them based on whitespace and prints each part of the string.
