@@ -1,4 +1,0 @@
-Objective
----------
-Write a program that reads user input until an empty string is entered.
-For each non-empty string the program splits it by spaces and prints the first part.
