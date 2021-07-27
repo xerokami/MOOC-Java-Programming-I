@@ -1,0 +1,130 @@
+Objective
+---------
+
+Part1: Reading and listing recipes
+
+First create the functionality to read and list recipes. The user interface of the program is described below.
+You may assume that the user only enters files that exist.
+Below we assume that the example recipes given earlier in the exercise description are stored in the file recipes.txt.
+
+File to read: recipes.txt
+
+Commands:
+list - lists the recipes
+stop - stops the program
+
+Enter command: list
+
+Recipes:
+Pancake dough, cooking time: 60
+Meatballs, cooking time: 20
+Tofu rolls, cooking time: 30
+
+Enter command:  stop
+
+
+Part2: Finding recipes by name
+
+Make it possible to find recipes by their names.
+Finding by name is done with the command find name, after which the user is asked for the name that is used to search.
+The search should print all the recipes whose names contain the string given by the user.
+
+File to read: recipes.txt
+
+Commands:
+list - lists the recipes
+stop - stops the program
+find name - searches recipes by name
+
+Enter command: list
+
+Recipes:
+Pancake dough, cooking time: 60
+Meatballs, cooking time: 20
+Tofu rolls, cooking time: 30
+
+Enter command: find name
+Searched word: roll
+
+Recipes:
+Tofu rolls, cooking time: 30
+
+Enter command:  stop
+
+
+Part3: Searching for recipes by cooking time
+
+Next, implement the possibility to find recipes based on their cooking time.
+This is done with the command find cooking time, after which the user is asked for the longest acceptable cooking time.
+The program should react by printing all the recipes whose cooking times don't exceed the cooking time given by the user (so equal or less time).
+
+File to read: recipes.txt
+
+Commands:
+list - lists the recipes
+stop - stops the program
+find name - searches recipes by name
+find cooking time - searches recipes by cooking time
+
+Enter command: find cooking time
+Max cooking time: 30
+
+Recipes:
+Meatballs, cooking time: 20
+Tofu rolls, cooking time: 30
+
+Enter command: find cooking time
+Max cooking time: 15
+
+Recipes:
+
+Enter command: find name
+Searched word: roll
+
+Recipes:
+Tofu rolls, cooking time: 30
+
+Enter command:  stop
+
+
+Part4: Finding recipes based on their ingredients
+
+Finally, add the functionality to search for recipes based on their ingredients.
+This is done by choosing the command find ingredient, after which the user is asked for a string. The program should then print all the recipes that contain the specified string.
+Notice that with this option the given string must match exactly the ingredient that is searched for (e.g. "ugar" will return different results than "sugar").
+
+File to read: recipes.txt
+
+Commands:
+list - lists the recipes
+stop - stops the program
+find name - searches recipes by name
+find cooking time - searches recipes by cooking time
+find ingredient - searches recipes by ingredient
+
+Enter command: find cooking time
+Max cooking time: 30
+
+Recipes:
+Meatballs, cooking time: 20
+Tofu rolls, cooking time: 30
+
+Enter command: find ingredient
+Ingredient: sugar
+
+Recipes:
+Pancake dough, cooking time: 60
+
+Enter command: find ingredient
+Ingredient: egg
+
+Recipes:
+Pancake dough, cooking time: 60
+Meatballs, cooking time: 20
+
+Enter command: find ingredient
+Ingredient: gg
+
+Recipes:
+
+Enter command:  stop
